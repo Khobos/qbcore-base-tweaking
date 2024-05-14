@@ -1,0 +1,4 @@
+[submodule "qb-clothing"]
+	path = ./resources/[qb]/qb-clothing
+	url = git@github.com:Khorbos/qb-clothing.git
+	branch = master
